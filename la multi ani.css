@@ -1,0 +1,17 @@
+.urare{
+    color: red;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Great Vibes';
+}
+body{
+    background-color: bisque;
+}
+.tort{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: -10%;
+}
+
